@@ -6,7 +6,7 @@
   * Cards dynamic printing, not hard-coded
 * Overall css final touches
 
-## Work in Progress
+## Work in Process
 * Cards components
 
 ## Done
