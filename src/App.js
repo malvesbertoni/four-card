@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from './App.module.css';
 
+import Cards from './components/Cards';
+
 import imgSupervisor from './images/icon-supervisor.svg';
 import imgTeamBuilder from './images/icon-team-builder.svg';
 import imgKarma from './images/icon-karma.svg';
@@ -21,6 +23,8 @@ function App() {
       </div>
       <div className={styles.cardsWrapper}>
         <div className={styles.card}>
+          <Cards />
+        {/*
           <div className={styles.cardHeader}>
             <h2>Supervisor</h2>
             <p>Monitors activity to identify project roadblocks</p>
@@ -49,6 +53,7 @@ function App() {
           <div className={styles.cardImage}>
             <img src={imgCalculator} alt="Supervisor"/>
           </div>
+        */}
         </div>
       </div>
     </div>
