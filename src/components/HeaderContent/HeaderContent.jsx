@@ -4,7 +4,7 @@ import styles from './HeaderContent.module.css';
 
 function HeaderContent() {
     return (
-        <div className={styles.container}>
+        <div className={styles.mainWrapper}>
             <div className={styles.mainHeader}>
                 <div className={styles.mainHeaderTitle}>
                     Reliable, efficient delivery
