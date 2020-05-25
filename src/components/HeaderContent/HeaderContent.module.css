@@ -1,0 +1,53 @@
+.mainWrapper {
+  margin-top: 60px !important;
+}
+
+.mainHeader {
+    margin-bottom: 48px;
+    
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.mainHeaderTitle {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 200;
+    color: hsl(234, 12%, 34%);
+}
+  
+  .mainHeaderSubtitle {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+  
+  .mainHeader p {
+    width: 500px;
+  
+    text-align: center;
+}
+
+@media (max-width: 800px) {
+    .mainHeaderTitle {
+      width: 300px;
+      font-size: 22px;
+    }
+  
+    .mainHeaderSubtitle {
+      width: 300px;
+      font-size: 22px;
+    }
+  
+    .mainHeader p {
+      width: 280px;
+  
+      justify-content: center;
+      align-items: center;
+      font-size: 12px;
+    }
+}
