@@ -1,6 +1,6 @@
 # Four Cards -- STILL WORKING ON IT
 
-This project is part of an ongoing series of code challenges from ![FrontEndMentor](https://github.com/frontendmentorio).
+This project is part of an ongoing series of code challenges from [FrontEndMentor](https://github.com/frontendmentorio).
 
 Four Cards is a simple and static web page, containing no scripts whatsoever. 
 
@@ -14,4 +14,4 @@ Four Cards is a simple and static web page, containing no scripts whatsoever.
 ![Overview](https://github.com/malvesbertoni/four-card/blob/master/public/overview.gif)
 
 ## Credits
-Thanks ![FrontEndMentor](https://github.com/frontendmentorio) for providing this code challenge.
+Thanks [FrontEndMentor](https://github.com/frontendmentorio) for providing this code challenge.
