@@ -1,4 +1,4 @@
-# Four Cards -- STILL WORKING ON IT
+# Four Cards
 
 This project is part of an ongoing series of code challenges from [FrontEndMentor](https://github.com/frontendmentorio).
 
