@@ -4,6 +4,10 @@ This project is part of an ongoing series of code challenges from [FrontEndMento
 
 Four Cards is a simple and static web page, containing no scripts whatsoever. 
 
+Therefore, it could be done using only HTML and CSS, but I've decided to use React.js so I could practice factoring and code design.
+
+For me, the hardest part of this challenge was correctly placing the four cards. To do so, I used the grid display with rows and columns.
+
 ## Technologies
 * React.js
 * HTML
