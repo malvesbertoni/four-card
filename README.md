@@ -1,12 +1,17 @@
 # Four Cards -- STILL WORKING ON IT
 
-## To Do
+This project is part of an ongoing series of code challenges from ![FrontEndMentor](https://github.com/frontendmentorio).
 
-## Work in Process
-* Final css details
+Four Cards is a simple and static web page, containing no scripts whatsoever. 
 
-## Done
-* Raw html layout and basic css.
-* Header is finished (html and css)
-* Cards components
-* Cards css
+## Technologies
+* React.js
+* HTML
+* CSS
+
+## Demo
+### Overview
+![Overview](https://github.com/malvesbertoni/four-card/blob/master/public/overview.gif)
+
+## Credits
+Thanks ![FrontEndMentor](https://github.com/frontendmentorio) for providing this code challenge.
